@@ -1,6 +1,6 @@
 ## Luke Usher
 
-A musician and esports enthusiast with an penchant for logical thinking who quit his full time job of 8 years to chase a software development career.
+A musician and esports enthusiast with a penchant for logical thinking who quit his full time job of 8 years to chase a software development career.
 Excelled in previous roles by successfully incorporating a creative instinct paired with a straightforward, rational approach to solving problems and improving projects.
 Forever intrigued by new technologies, seeking to understand them and a strong proponent of going against the status quo. Just because something came first, doesn't make it better.
 There are always improvements that can be made.
@@ -116,4 +116,5 @@ It's great to have accountability and a strict deliverable timeframe rather than
 I also get feedback and rankings from developers to help improve my songs, which is great!
 You can check out some of my tracks [here](https://https://soundcloud.com/octonyte).
 
+I make some top tier carrot cake. 
 It's my goal to try and participate in (and complete) a good, honest DnD campaign. It's something I've always wanted to do but never had the chance. Yet!
