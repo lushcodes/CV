@@ -1,7 +1,6 @@
 ## Luke Usher
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-A musician and esports enthusiast with an penchant for logical thinking who quit his full time job to chase a software development career.
+A musician and esports enthusiast with an penchant for logical thinking who quit his full time job of 8 years to chase a software development career.
 Excelled in previous roles by successfully incorporating a creative instinct paired with a straightforward, rational approach to solving problems and improving projects.
 Forever intrigued by new technologies, seeking to understand them and a strong proponent of going against the status quo. Just because something came first, doesn't make it better.
 There are always improvements that can be made.
@@ -54,7 +53,14 @@ During my time at Markerstudy, an initiative was launched to generate ideas to r
 My suggestion was to comb through relic folders to find what information was relevant and scrub those that were defunct. It ended up being a surprising amount and saved on data space as well as cost significantly.
 I received an award for my idea and was given the resonsibility of spearheading the process on how to sufficiently ensure that the correct files were maintained.
 
-#### Attention To Detail
+#### Self Starter
+
+This is actually where I got started coding to begin with. Whilst managing the Broking Team at Markerstudy, there were common issues that would arise time and time again. There were regular questions from staff as to what information we required from customers
+before their cases could be referred. Staff would always approach us and ask the same questions they weren't sure of or just wing it and pass us the case without the neccessary info. Over time, this impacted workloads heavily and I realised that if we had an easily accessible repository of information, the staff could easily look the criteria up themsleves before passing it along.
+I asked the Senior Operations Managers if something like this could be built, but the budget didn't allow for it. It was such a persistent problem, with such a seemingly simple solution that it spurred me to 
+try and build it myself. I googled what I could and after days of using sites like w3schools, I managed to create a local intranet of sorts using HTML5, CSS3 & Javascript. The productivity skyrocketed.
+The call times for customers shrank as staff were no longer putting them on hold to ask my team. It was a success and something that I proudly expanded until it was used by the entire department, saving costs equivalent of 4 FTE salaries per year.
+
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
@@ -88,6 +94,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 From 15 years old, I was the lead singer and bassist in a local band, 'Hardly Heroes'.
 This continued into my college and university years until we parted ways due to new interests, however it was an extremely informative part of my life.
+Organising, booking, travelling, social connections. It was an eye opener on how to get things done and how to interect with the public and professionals alike.
 We supported and met several well established bands and artists, including but not limited to:
 
 - Paul McCartney
@@ -106,7 +113,7 @@ Although we no longer play, I have a soundcloud playlist with all of our recorde
 
 I enjoy making indie video game soundtracks for budding game developers, participating in weekly game jams when I can.
 It's great to have accountability and a strict deliverable timeframe rather than filling my harddrive with 100's of unfinished tracks.
-I also get feedback from developers to help improve my songs, which is great!
+I also get feedback and rankings from developers to help improve my songs, which is great!
 You can check out some of my tracks [here](https://https://soundcloud.com/octonyte).
 
 It's my goal to try and participate in (and complete) a good, honest DnD campaign. It's something I've always wanted to do but never had the chance. Yet!
