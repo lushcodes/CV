@@ -14,7 +14,7 @@ There are always improvements that can be made.
 
 ## Work Experience
 
-**Markerstudy Group** (Jan '13 to May '21)  
+**Markerstudy Group** (Jan 2013 to May 2021)  
 _Broking Manager/ Test Analyst_ 
 
 - Won several company distributed awards for creative thinking
@@ -25,7 +25,7 @@ _Broking Manager/ Test Analyst_
 - Responsible for testing accurately and concisely communicating to Ops teams
 - Self motivated, 'do it myself' attitude
 
-**Thomas Sanderson** (Jan '12 to Jan '14)  
+**Thomas Sanderson** (Jan 2012 to Jan 2014)  
 _Partner Sales Executive_
 
 - Demonstrated my ability to learn quickly as I was promoted very soon after completing my probation period.
