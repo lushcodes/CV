@@ -16,11 +16,11 @@ Forever intrigued by new technologies, seeking to understand them and a strong p
 ***
 
 ### <a name="projects">💡 Projects</a>
-Project | Description | Stack 
---- | --- | --- | --- | ---
-[Hexdrum][2] | A browser based drum machine. | Javascript, HTML, CSS
-[RPS Game][3] | Rock, Paper, Scissors Game | Ruby, HTML, CSS 
-[Chitter][4] | A twitter clone | Javascript, HTML, CSS
+Project | Description | Stack |
+--- | --- | --- | --- | --- |
+[Hexdrum][2] | A browser based drum machine. | Javascript, HTML, CSS |
+[RPS Game][3] | Rock, Paper, Scissors Game | Ruby, HTML, CSS |
+[Chitter][4] | A twitter clone | Javascript, HTML, CSS |
 
 ***
 
