@@ -101,16 +101,11 @@ It's my goal to one day participate in (and complete) a good, honest DnD campaig
 ***
 
 ### <a name="contact">📬 Contact</a>
-- Github | [stumcardle][1]
-- Codewars | http://www.codewars.com/users/stuartmcardle
-- Portfolio | [stumcardle.com](http://www.stumcardle.com)
+- Github | [luschodes][1]
+- Codewars | http://www.codewars.com/users/lushcodes
+- Website | [lushcodes.com](http://www.lushcodes.com)
 
-[1]: https://github.com/stumcardle
-[2]: 
+[1]: https://github.com/lushcodes
+[2]: https://github.com/lushcodes/hexdrum
 [3]: https://github.com/lushcodes/frontend-api-challenge
-[4]: https://github.com/rdupplaw/makersbnb
-[5]: https://github.com/stumcardle
-[6]: https://www.youtube.com/watch?v=ZddhZCFhr7I
-[7]: https://github.com/rdupplaw/makersbnb
-[8]: https://
-[9]: https://www.youtube.com/watch?v=TtRlNqiR7zo
+
