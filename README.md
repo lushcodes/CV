@@ -6,7 +6,7 @@ A musician and esports enthusiast with a penchant for logical thinking who quit 
 Excelled in previous roles by successfully incorporating a creative instinct paired with a straightforward, rational approach to solving problems and improving projects.
 Forever intrigued by new technologies, seeking to understand them and a strong proponent of going against the status quo. Just because something came first, doesn't make it better. There are always improvements that can be made! 
 
-### <a name="skills">🤹 Skills</a>
+### <a name="skills">🤸‍♂️ Skills</a>
 
 - **Quick Learner** - Able to demonstrate the ability to learn and use new technologies in a short time frame. I opted into researching and using React, Node.js and Express along with the Jest test suite for the final 2 week project of the Makers coding bootcamp. It was a decision that paid off as we were able to complete some of our stretch goals and deliver a great product in just 2 weeks.
 - **Self Starter** - During my time as a manager, there were regular questions from staff as to what information we required from customers before their insurance cases could be referred. It was such a persistent problem with such a seemingly simple solution that it spurred me to try and build a solution myself. I managed to create a local intranet of sorts using HTML5, CSS3 & Javascript and the productivity skyrocketed. It was a such a such a success that I proudly expanded it until it was used by the entire department, saving costs equivalent of 4 FTE salaries per year.
@@ -82,7 +82,7 @@ Although we no longer play, I have a soundcloud playlist with all of our recorde
 
 ***
 
-### <a name="interests">🪴 Interests</a>
+### <a name="interests">🎵 Interests</a>
 
 I enjoy making indie video game soundtracks for budding game developers, participating in weekly game jams when I can.
 It's great to have accountability and a strict deliverable timeframe rather than filling my harddrive with 100's of unfinished tracks.
