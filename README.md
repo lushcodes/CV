@@ -15,12 +15,28 @@ Forever intrigued by new technologies, seeking to understand them and a strong p
 
 ***
 
+
+
 ### <a name="projects">💡 Projects</a>
-Project | Description | Stack |
---- | --- | --- | --- | --- |
+
+Project | Description | Stack 
+--- | --- | --- 
 [Hexdrum][2] | A browser based drum machine. | Javascript, HTML, CSS |
 [RPS Game][3] | Rock, Paper, Scissors Game | Ruby, HTML, CSS |
 [Chitter][4] | A twitter clone | Javascript, HTML, CSS |
+
+***
+
+### <a name="experience">🔮 Experience</a>
+
+**Markerstudy Group - Insurance Company** (Jan 2013 – May 2021)    
+*Broking Manager*
+
+**Thomas Sanderson - Blinds Manufacturer** (Jan 2012 - Jan 2013)   
+*Head of Regional Sales*
+
+**Quickcade - Charity Speedrun Events** (Jan 2019 - Present)
+*Marketing & Design*
 
 ***
 
@@ -63,28 +79,6 @@ We supported and met several well established bands and artists, including but n
 - Lil Chris
 
 Although we no longer play, I have a soundcloud playlist with all of our recorded tracks still available to [listen](https://soundcloud.com/luke-usher-964328048) to.
-
-## Hobbies
-
-I enjoy making indie video game soundtracks for budding game developers, participating in weekly game jams when I can.
-It's great to have accountability and a strict deliverable timeframe rather than filling my harddrive with 100's of unfinished tracks.
-I also get feedback and rankings from developers to help improve my songs, which is great!
-You can check out some of my tracks [here](https://https://soundcloud.com/octonyte).
-
-I make some top tier carrot cake. 
-It's my goal to one day participate in (and complete) a good, honest DnD campaign. It's something I've always wanted to do but never had the chance. Yet!
-***
-
-### <a name="experience">🔮 Experience</a>
-
-**Markerstudy Group - Insurance Company** (Jan 2013 – May 2021)    
-*Broking Manager*
-
-**Thomas Sanderson - Blinds Manufacturer** (Jan 2012 - Jan 2013)   
-*Head of Regional Sales*
-
-**Quickcade - Charity Speedrun Events** (Jan 2019 - Present)
-*Marketing & Design*
 
 ***
 
