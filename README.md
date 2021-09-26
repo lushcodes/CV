@@ -87,7 +87,7 @@ Although we no longer play, I have a soundcloud playlist with all of our recorde
 I enjoy making indie video game soundtracks for budding game developers, participating in weekly game jams when I can.
 It's great to have accountability and a strict deliverable timeframe rather than filling my harddrive with 100's of unfinished tracks.
 I also get feedback and rankings from developers to help improve my songs, which is great!
-You can check out some of my tracks [here](https://https://soundcloud.com/octonyte).
+You can check out some of my tracks [here](https://soundcloud.com/octonyte).
 
 I make some top tier carrot cake. 
 It's my goal to one day participate in (and complete) a good, honest DnD campaign. It's something I've always wanted to do but never had the chance. Yet!
