@@ -41,7 +41,7 @@ Project | Description | Tech
 *Broking Manager*
 
 **Thomas Sanderson - Blinds Manufacturer** (Jan 2012 - Jan 2013)   
-*Head of Regional Sales*
+*Partnership Sales Executive*
 
 **Quickcade - Charity Speedrun Events** (Jan 2019 - Present)
 *Marketing & Design*
