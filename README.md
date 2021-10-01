@@ -1,3 +1,6 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/lushcodes/lushcodes/master/wave.gif" width="30px">
+
+
 [Skills](#skills)  |  [Projects](#projects)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Website](https://www.lushcodes.com)
 
 ### Luke Usher
