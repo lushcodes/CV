@@ -26,7 +26,7 @@ Forever intrigued by new technologies, seeking to understand them and a strong p
 Project | Description | Stack 
 --- | --- | --- 
 [Hexdrum][2] | A browser based drum machine. | Javascript, HTML, CSS |
-[E-Commerce Site][4] | Rock, Paper, Scissors Game | Ruby, HTML, CSS |
+[Blitz VST][4] | React E-Commerce Site | React, JS, CSS  |
 [Chitter][3] | A place for posts | Javascript, HTML, CSS |
 
 ***
