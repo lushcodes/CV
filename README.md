@@ -2,7 +2,6 @@
 
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-
 [Skills](#skills)  |  [Projects](#projects)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Website](https://www.lushcodes.com)
 
 
@@ -99,7 +98,7 @@ It's my goal to one day participate in (and complete) a good, honest DnD campaig
 ***
 
 ### <a name="contact">📬 Contact</a>
-- Github | [luschodes][1]
+- Github | [lushcodes][1]
 - Codewars | http://www.codewars.com/users/lushcodes
 - Website | [lushcodes.com](http://www.lushcodes.com)
 
