@@ -1,11 +1,10 @@
-# Hello There! 
+# Luke Usher
 
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 
 [Skills](#skills)  |  [Projects](#projects)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Website](https://www.lushcodes.com)
 
-### Luke Usher
 
 A musician and esports enthusiast with a penchant for logical thinking who quit his full time job of 8 years to chase a software development career.
 Excelled in previous roles by successfully incorporating a creative instinct paired with a straightforward, rational approach to solving problems and improving projects.
