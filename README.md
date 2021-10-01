@@ -1,4 +1,6 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/lushcodes/lushcodes/master/wave.gif" width="30px">
+# Hello There! 
+
+![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 
 [Skills](#skills)  |  [Projects](#projects)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Website](https://www.lushcodes.com)
