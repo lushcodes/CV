@@ -26,8 +26,8 @@ Forever intrigued by new technologies, seeking to understand them and a strong p
 Project | Description | Stack 
 --- | --- | --- 
 [Hexdrum][2] | A browser based drum machine. | Javascript, HTML, CSS |
-[RPS Game][3] | Rock, Paper, Scissors Game | Ruby, HTML, CSS |
-[Chitter][4] | A twitter clone | Javascript, HTML, CSS |
+[E-Commerce Site][4] | Rock, Paper, Scissors Game | Ruby, HTML, CSS |
+[Chitter][3] | A place for posts | Javascript, HTML, CSS |
 
 ***
 
@@ -106,4 +106,5 @@ It's my goal to one day participate in (and complete) a good, honest DnD campaig
 [1]: https://github.com/lushcodes
 [2]: https://github.com/lushcodes/hexdrum
 [3]: https://github.com/lushcodes/frontend-api-challenge
+[4]: https://blitzvst.netlify.app
 
