@@ -27,10 +27,10 @@ Forever intrigued by new technologies, seeking to understand them and a strong p
 
 ## <a name="projects">💡 Projects</a>
 
-Project | Description | Stack 
+Project | Description | Tech 
 --- | --- | --- 
 [Hexdrum][2] | A browser based drum machine. | Javascript, HTML, CSS |
-[Blitz VST][4] | React E-Commerce Site | React, JS, CSS  |
+[Blitz VST][4] | React E-Commerce Site | React, Commerce.js, Stripe, JS, CSS  |
 [Chitter][3] | A place for posts | Javascript, HTML, CSS |
 
 ***
