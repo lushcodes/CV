@@ -1,5 +1,6 @@
 <div align='center'>
- # Luke Usher
+
+# Luke Usher
 
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
