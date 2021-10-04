@@ -7,31 +7,29 @@
 [Skills](#skills)  |  [Projects](#projects)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Website](https://www.lushcodes.com)
 
 
-A musician and esports enthusiast with a penchant for logical thinking who quit his full time job of 8 years to chase a software development career.
+A musician and esports enthusiast with a penchant for logical thinking who quit his full time job of 8 years to chase a software development career. A huge believer in treating people as individuals and being able to laugh even in stressful situations! We're here for a good time, not a long time!
 Excelled in previous roles by successfully incorporating a creative instinct paired with a straightforward, rational approach to solving problems and improving projects.
-Forever intrigued by new technologies, seeking to understand them and a strong proponent of going against the status quo. Just because something came first, doesn't make it better. There are always improvements that can be made! 
+Forever intrigued by new technologies, seeking to understand them and a strong proponent of going against the status quo. Just because something came first, doesn't make it better. There are always improvements that can be made!
  </div>
  
  ***
+ ## <a name="projects">💡 Projects</a>
+
+Project | Description | Tech | Info | Image
+--- | --- | --- | --- | --- | 
+[Hexdrum][2] | A browser based drum machine | Javascript, HTML, CSS | An experiment to combine my love of music and coding as well as test my CSS & JS skills. |![hexdrum](https://lushcodes.com/images/gallery/thumbs/07.jpg)
+[Blitz VST][4] | React E-Commerce Site | React, Commerce.js, Stripe, JS, CSS |
+[Chitter][3] | A place for posts | Javascript, HTML, CSS |
+
+***
+ 
 
 ## <a name="skills">🤸‍♂️ Skills</a>
 
-- **Quick Learner** - Able to demonstrate the ability to learn and use new technologies in a short time frame. I opted into researching and using React, Node.js and Express along with the Jest test suite for the final 2 week project of the Makers coding bootcamp. It was a decision that paid off as we were able to complete some of our stretch goals and deliver a great product in just 2 weeks.
-- **Self Starter** - During my time as a manager, there were regular questions from staff as to what information we required from customers before their insurance cases could be referred. It was such a persistent problem with such a seemingly simple answer that it spurred me to try and build a solution myself. I managed to create a local intranet of sorts using HTML5, CSS3 & Javascript and productivity skyrocketed. It was an idea that I proudly expanded until it was used by the entire department, saving costs equivalent of 4 FTE salaries per year.
-- **Creative Thinker** - In my previous job, an initiative was launched to generate ideas to reduce costs. I was able to identify that there were vast amounts of unused filespace within our network. My suggestion was to comb through legacy data and folders to find what information was relevant and scrub those that were defunct. It ended up being a surprising amount and saved on data space as well as cost significantly. I received an award for my idea and was given the resonsibility of spearheading the process on how to sufficiently ensure that the correct files were maintained.
-- **Team-player** - Throughout the course at Makers, some of my favourite moments were born from group projects. I really enjoyed the camaraderie a team environment brings and seeing our builds grow day by day. I was heavily involved in organising tickets and doing code reviews and loved having a holistic view of what everyone's struggles and successes were.
-
-***
-
-
-
-## <a name="projects">💡 Projects</a>
-
-Project | Description | Tech 
---- | --- | --- 
-[Hexdrum][2] | A browser based drum machine. | Javascript, HTML, CSS |
-[Blitz VST][4] | React E-Commerce Site | React, Commerce.js, Stripe, JS, CSS  |
-[Chitter][3] | A place for posts | Javascript, HTML, CSS |
+- **Quick Learner** - Able to demonstrate the ability to learn and use new technologies in a short time frame. I opted into researching and using React, Node.js and Express along with the Jest test suite for the final 2 week project of the Makers coding bootcamp. It was a decision that paid off as we were able to complete some of our stretch goals and deliver a great product in just 2 weeks.<br><br>
+- **Self Starter** - During my time as a manager, there were regular questions from staff as to what information we required from customers before their insurance cases could be referred. It was such a persistent problem with such a seemingly simple answer that it spurred me to try and build a solution myself. I managed to create a local intranet of sorts using HTML5, CSS3 & Javascript and productivity skyrocketed. It was an idea that I proudly expanded until it was used by the entire department, saving costs equivalent of 4 FTE salaries per year.<br><br>
+- **Creative Thinker** - In my previous job, an initiative was launched to generate ideas to reduce costs. I was able to identify that there were vast amounts of unused filespace within our network. My suggestion was to comb through legacy data and folders to find what information was relevant and scrub those that were defunct. It ended up being a surprising amount and saved on data space as well as cost significantly. I received an award for my idea and was given the resonsibility of spearheading the process on how to sufficiently ensure that the correct files were maintained.<br><br>
+- **Empathic Team Member** - I am extremely comfortable with being honest about how I feel and this has in many situations made it easer for my team members to feel less stressed or anxious themselves. During a retro with the coaches on the first week of the Makers course, I openly admitted to the group that I felt like things had gone over my head. Afterwards, I received several DM's from my cohort members thanking me for being so vulnerable. They they were relieved that I had voiced my feelings and that it made them feel less alone or afraid to speak up. It also brought me closer to the team and helped develop a sense of togetherness and unity.
 
 ***
 
@@ -39,32 +37,43 @@ Project | Description | Tech
 
 **Markerstudy Group - Insurance Company** (Jan 2013 – May 2021)    
 *Broking Manager*
+- Managing a small team required developing strong emotional competency skills. I ensured that everyone was treated equally but as an individual and made it known to staff that I was an individual too. This was appreciated by the staff and made it much easier to deal with difficult situations.
 
 **Thomas Sanderson - Blinds Manufacturer** (Jan 2012 - Jan 2013)   
 *Partnership Sales Executive*
+- I was promoted extremely quickly thanks to my ability to learn fast whilst maintaining a high conversion rate. I am extremely proud that my sales technique was down to my personable and polite manner as opposed to brute force or a numbers game.
+
+**Hardly Heroes - Live Band** (Sept 2007 - Jan 2013)
+*Professional Vocalist*
+- Extremely informative experience in time management, organisiation and developing social connections.
+- I was able to maintain steady bookings and repeat business due to my enthusiasm and quick response times which I learned was critical to success.
+- I was a trusted leader when it came to decsion making as I was able to rationalise, think objectively and act without bias when it came to disagreements.
 
 **Quickcade - Charity Speedrun Events** (Jan 2019 - Present)
 *Marketing & Design*
+
 
 ***
 
 ## <a name="education">🧠 Education</a>
 
-#### Makers Academy (June 2021 - September 2021)
+#### Makers Academy (June 2021 - Sept 2021)
 Highly selective 12 week intensive coding bootcamp.
 
-- OOP & TDD programming principles.
+- Self led learning
+- Emotional Intelligence skills (EQ)
+- OOP & TDD programming principles and methods
 - Agile work experience during group projects
 - Pair Programming
 - Ruby, Rails, JavaScript, React, Node.js
 - Testing Frameworks such as rSpec, Jasmine and React Testing Library
 
-#### Academy of Contemporary Music
+#### Academy of Contemporary Music (Sept 2010 - Sept 2012)
 - Qualification: BA(Hons) Music Industry Practice
 - Discipline: Vocals
 - Larger tours and venues and further insight into recording techniques
 
-#### Southdowns College  (Sep 2007 to Sep 2009)
+#### Southdowns College  (Sept 2007 to Sept 2009)
 - Qualification: National Diploma of Music Practice
 - Grade: Distinction
 - Final exam was a local class tour of the Isle of Wight
