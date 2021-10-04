@@ -1,13 +1,16 @@
 <div align='center'>
 
 # Luke Usher
+ ✉ lushcodes@gmail.com | 📱 07522242399 | 🌍 www.lushcodes.com
+ 
+
 
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 [Skills](#skills)  |  [Projects](#projects)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Website](https://www.lushcodes.com)
 
 
-A musician and esports enthusiast with a penchant for logical thinking who quit his full time job of 8 years to chase a software development career. A huge believer in treating people as individuals and being able to laugh even in stressful situations! We're here for a good time, not a long time!
+Recent Makers gradudate, musician and esports enthusiast with a penchant for logical thinking who quit his full time job of 8 years to chase a software development career. A huge believer in treating people as individuals and being able to laugh even in stressful situations! We're here for a good time, not a long time!
 Excelled in previous roles by successfully incorporating a creative instinct paired with a straightforward, rational approach to solving problems and improving projects.
 Forever intrigued by new technologies, seeking to understand them and a strong proponent of going against the status quo. Just because something came first, doesn't make it better. There are always improvements that can be made!
  </div>
@@ -48,6 +51,7 @@ Project | Description | Tech | Info | Image
 - Extremely informative experience in time management, organisiation and developing social connections.
 - I was able to maintain steady bookings and repeat business due to my enthusiasm and quick response times which I learned was critical to success.
 - I was a trusted leader when it came to decsion making as I was able to rationalise, think objectively and act without bias when it came to disagreements.
+- Supported and met many amazing artists such as Paul McCartney, The Zutons and Queens of The Stone Age
 
 **Quickcade - Charity Speedrun Events** (Jan 2019 - Present)
 *Marketing & Design*
@@ -77,25 +81,6 @@ Highly selective 12 week intensive coding bootcamp.
 - Qualification: National Diploma of Music Practice
 - Grade: Distinction
 - Final exam was a local class tour of the Isle of Wight
-
-## Other
-
-From 15 years old, I was the lead singer and bassist in a local Portsmouth band, 'Hardly Heroes'.
-This continued into my college and university years until we parted ways due to new interests, however it was an extremely informative part of my life.
-Organising, booking, travelling, social connections. It was an eye opener on how to get things done and how to interect with the public and professionals alike.
-We supported and met several well established bands and artists, including but not limited to:
-
-- Paul McCartney
-- The Zutons
-- Queens of The Stone Age
-- Trent Reznor
-- Faithless
-- Young Knives
-- Emptifish
-- Snow Dogs
-- Lil Chris
-
-Although we no longer play, I have a soundcloud playlist with all of our recorded tracks still available to [listen](https://soundcloud.com/luke-usher-964328048) to.
 
 ***
 
