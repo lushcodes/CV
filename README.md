@@ -17,9 +17,9 @@ Forever intrigued by new technologies, seeking to understand them and a strong p
 
 Project | Description | Tech | Info | Image
 --- | --- | --- | --- | --- | 
-[Hexdrum][2] | A browser based drum machine | Javascript, HTML, CSS | An experiment to combine my love of music and coding as well as test my CSS & JS skills. |![hexdrum](https://lushcodes.com/images/gallery/thumbs/07.jpg)
-[Blitz VST][4] | React E-Commerce Site | React, Commerce.js, Stripe, JS, CSS |
-[Chitter][3] | A place for posts | Javascript, HTML, CSS |
+[Hexdrum][2] | A browser based drum machine | Javascript, HTML, CSS | An experiment to combine my love of music and coding as well as test my CSS & JS skills. It's also pretty fun to play around with! This was built over a year before joining Makers, demonstrating that I am capable of learning without set course material.| <img src="http://lushcodes.com/images/gallery/thumbs/08.jpg" width="3000" title="Congrats, you have found the secret text!">
+[Blitz VST][4] | React E-Commerce Site | React, Commerce.js, Stripe, JS, CSS | After choosing to use React for our final Makers project, I wanted to see if I could learn and use it more as I really enjoyed the structure and components that it provides. I also wanted to produce a working e-commerce app and was curious how the Commerce.js and Stripe API's functioned. Once again, I used my musical influence to create a shop for Virtual Studio Technology plugins - a 2021 music producer's best friend, but unfortunately quite expensive! |<img src="http://lushcodes.com/images/gallery/thumbs/07.jpg" width="3000" title="Congrats, you have found the secret text!">|
+[Chitter][3] | A place for posts | Javascript, HTML, CSS (Skeleton) | My Chitter challenge during the main course. I wanted to try and produce a functional and visually pleasing app so I experimented with the skeleton.css framework. It wasn't something I had used before this attempt but I am happy with the results! I loved how their code is formatted too! Very nice.| <img src="https://i.ibb.co/kDd79bs/Capture.png" width="3000" title="Congrats, you have found the secret text!">||https://ibb.co/jwpNW0P
 
 ***
  
