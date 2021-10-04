@@ -106,6 +106,7 @@ It's my goal to one day participate in (and complete) a good, honest DnD campaig
 - Github | [lushcodes][1]
 - Codewars | http://www.codewars.com/users/lushcodes
 - Website | [lushcodes.com](http://www.lushcodes.com)
+- LinkedIn | [Linked In](https://www.linkedin.com/in/lushcodes)
 
 [1]: https://github.com/lushcodes
 [2]: https://github.com/lushcodes/hexdrum
