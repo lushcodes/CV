@@ -1,16 +1,16 @@
 <div align='center'>
 
-# Luke Usher
+# LUKE USHER
  ✉ lushcodes@gmail.com | 📱 07522242399 | 🌍 www.lushcodes.com
  
 
 
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-[Skills](#skills)  |  [Projects](#projects)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Website](https://www.lushcodes.com)
+[Projects](#projects)  |  [Skills](#skills)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Website](https://www.lushcodes.com)
 
 
-Recent Makers gradudate, musician and esports enthusiast with a penchant for logical thinking who quit his full time job of 8 years to chase a software development career. A huge believer in treating people as individuals and being able to laugh even in stressful situations! We're here for a good time, not a long time!
+Makers gradudate, musician and esports enthusiast with a penchant for logical thinking who quit his full time job of 8 years to chase a software development career. A huge believer in treating people as individuals and being able to laugh even in stressful situations! We're here for a good time, not a long time!
 Excelled in previous roles by successfully incorporating a creative instinct paired with a straightforward, rational approach to solving problems and improving projects.
 Forever intrigued by new technologies, seeking to understand them and a strong proponent of going against the status quo. Just because something came first, doesn't make it better. There are always improvements that can be made!
  </div>
@@ -20,9 +20,9 @@ Forever intrigued by new technologies, seeking to understand them and a strong p
 
 Project | Description | Tech | Info | Image
 --- | --- | --- | --- | --- | 
-[Hexdrum][2] | A browser based drum machine | Javascript, HTML, CSS | An experiment to combine my love of music and coding as well as test my CSS & JS skills. It's also pretty fun to play around with! This was built over a year before joining Makers, demonstrating that I am capable of learning without set course material.| <img src="http://lushcodes.com/images/gallery/thumbs/08.jpg" width="3000" title="Congrats, you have found the secret text!">
-[Blitz VST][4] | React E-Commerce Site | React, Commerce.js, Stripe, JS, CSS | After choosing to use React for our final Makers project, I wanted to see if I could learn and use it more as I really enjoyed the structure and components that it provides. I also wanted to produce a working e-commerce app and was curious how the Commerce.js and Stripe API's functioned. Once again, I used my musical influence to create a shop for Virtual Studio Technology plugins - a 2021 music producer's best friend, but unfortunately quite expensive! |<img src="http://lushcodes.com/images/gallery/thumbs/07.jpg" width="3000" title="Congrats, you have found the secret text!">|
-[Chitter][3] | A place for posts | Javascript, HTML, CSS (Skeleton) | My Chitter challenge during the main course. I wanted to try and produce a functional and visually pleasing app so I experimented with the skeleton.css framework. It wasn't something I had used before this attempt but I am happy with the results! I loved how their code is formatted too! Very nice.| <img src="https://i.ibb.co/kDd79bs/Capture.png" width="3000" title="Congrats, you have found the secret text!">||https://ibb.co/jwpNW0P
+[Hexdrum][2] | A browser based drum machine | Javascript, HTML, CSS | An experiment to combine my love of music and coding as well as test my CSS & JS skills. It's also pretty fun to play around with! This was built over a year before joining Makers, demonstrating that I am capable of learning on my own without set course material.| <img src="http://lushcodes.com/images/gallery/thumbs/08.jpg" width="3000" title="Congrats, you have found the secret text!">
+[Blitz VST][4] | React E-Commerce Site | React, Commerce.js, Stripe, JS, CSS | After choosing to use React for our final Makers project, I wanted to see if I could learn and use it more as I really enjoy the file structure and components it provides. I also wanted to produce a working e-commerce app and was curious how the Commerce.js and Stripe API's functioned. Once again, I used my musical influence to create a shop for Virtual Studio Technology plugins - a 2021 music producer's best friend, but unfortunately quite expensive! |<img src="http://lushcodes.com/images/gallery/thumbs/07.jpg" width="3000" title="Congrats, you have found the secret text!">|
+[Chitter][3] | A place for posts | Javascript, HTML, CSS (Skeleton) | My Chitter challenge during the main course. I wanted to try and produce a functional and visually pleasing app so I experimented with the skeleton.css framework. It wasn't something I'd used before this attempt but I am happy with the results! I loved how their code is formatted too! Very nice.| <img src="https://i.ibb.co/kDd79bs/Capture.png" width="3000" title="Congrats, you have found the secret text!">||https://ibb.co/jwpNW0P
 
 ***
  
@@ -38,24 +38,31 @@ Project | Description | Tech | Info | Image
 
 ## <a name="experience">🔮 Experience</a>
 
-**Markerstudy Group - Insurance Company** (Jan 2013 – May 2021)    
+**Markerstudy Group - Insurance Company** (Jan 2013 – May 2021)<br>
 *Broking Manager*
-- Managing a small team required developing strong emotional competency skills. I ensured that everyone was treated equally but as an individual and made it known to staff that I was an individual too. This was appreciated by the staff and made it much easier to deal with difficult situations.
+- Managing a small team required developing strong emotional competency skills. I ensured that everyone was treated equally but as an individual and made it known that I was an individual too. This was appreciated by staff and made it easier to deal with difficult situations.
+- Lead discussions on important changes and frequently highlighted risks which were crucial in not only creating a better product but also keeping us on schedule.
+- Brought tangible benefits to the business with the generation and implementation of creative ideas which reduced costs and overheads.
+- In-depth product and system knowledge meant other employees regularly deferred to my judgement on several topics and made me the primary point of contact for a multitude issues. As a result, I was well respected and trusted amongst my peers.<br><br>
 
-**Thomas Sanderson - Blinds Manufacturer** (Jan 2012 - Jan 2013)   
+**Thomas Sanderson - Blinds Manufacturer** (Jan 2012 - Jan 2013)<br>
 *Partnership Sales Executive*
-- I was promoted extremely quickly thanks to my ability to learn fast whilst maintaining a high conversion rate. I am extremely proud that my sales technique was down to my personable and polite manner as opposed to brute force or a numbers game.
+- Promoted within 3 months, learning quickly whilst maintaining a high conversion rate. Extremely proud that my sales technique reflected my personable and polite manner as opposed to brute force or a numbers game.
+- Ability to present comfortably meant I could conduct talks with clients and customers to foster meaningful long-term connections.<br><br>
 
-**Hardly Heroes - Live Band** (Sept 2007 - Jan 2013)
+**Hardly Heroes - Live Band** (Sept 2007 - Jan 2013)<br>
 *Professional Vocalist*
-- Extremely informative experience in time management, organisiation and developing social connections.
-- I was able to maintain steady bookings and repeat business due to my enthusiasm and quick response times which I learned was critical to success.
-- I was a trusted leader when it came to decsion making as I was able to rationalise, think objectively and act without bias when it came to disagreements.
-- Supported and met many amazing artists such as Paul McCartney, The Zutons and Queens of The Stone Age
+- Trusted leader during decision making. Able to rationalise, think objectively and act without bias when it came to disagreements. This helped conquer any issues that arose during writing and allowed us to move forward quickly without negativity.
+- Dilligent preparation and time management during recording sessions. Ensured everyone knew thier role and encouraged any creative changes to be laid down beforehand. This lead to great results and high praise from sound engineers.
+- Maintained steady bookings and repeat business due to my enthusiasm and quick response times which were critical to success.
+- Supported and met many amazing artists such as Paul McCartney, The Zutons and Queens of The Stone Age.<br><br>
 
-**Quickcade - Charity Speedrun Events** (Jan 2019 - Present)
+**Quickcade - Charity Speedrun Events** (Jan 2019 - Present)<br>
 *Marketing & Design*
-
+<br>
+- Enthusiasm to get things right for others caused deadlines, briefs and multiple iterations of design to be adhered to and produced. 
+- Ability to understand and talk to people has produced good relationships and connections since the events' inception.
+- High quality of work meant organisers were happy to use designs in an official capacity live on stream and have asked me to return for other events in future.<br><br>
 
 ***
 
@@ -80,7 +87,7 @@ Highly selective 12 week intensive coding bootcamp.
 #### Southdowns College  (Sept 2007 to Sept 2009)
 - Qualification: National Diploma of Music Practice
 - Grade: Distinction
-- Final exam was a local class tour of the Isle of Wight
+- Final exam involved touring the Isle of Wight
 
 ***
 
