@@ -10,7 +10,7 @@
 [Projects](#projects)  |  [Skills](#skills)  |  [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact) | [Website](https://www.lushcodes.com)
 
 
-Makers graduate, musician, and esports enthusiast with a penchant for logical thinking who quit his full-time job of 8 years to chase a software development career. A huge believer in treating people as individuals and being able to laugh even in stressful situations! We're here for a good time, not a long time!
+Makers graduate, musician, and esports enthusiast with a penchant for logical thinking who quit his full-time job of 8 years to chase a software development career. A huge believer in treating people as individuals and being able to laugh even in stressful situations!
 Excelled in previous roles by successfully incorporating a creative instinct paired with a straightforward, rational approach to solving problems and improving projects.
 Forever intrigued by new technologies, seeking to understand them, and a strong proponent of going against the status quo. Just because something came first, doesn't make it better. There are always improvements that can be made!
  </div>
